@@ -41,7 +41,7 @@
     "API Versioning"
   ],
 
-  "packagesAndLibraries": [
+  "packages": [
     "Dapper",
     "ADO.NET",
     "Entity Framework Core",
@@ -119,7 +119,7 @@
     "CI/CD"
   ],
 
-  "deploymentAndHosting": [
+  "hosting": [
     "Self-Hosting",
     "Coolify",
     "Docker",
@@ -128,7 +128,7 @@
     "Domain & DNS Configuration"
   ],
 
-  "developmentTools": [
+  "tools": [
     "Visual Studio",
     "Visual Studio Code",
     "SQL Server Management Studio (SSMS)",
