@@ -1,0 +1,14 @@
+{
+  "name": "Mohamed Hanifa",
+  "title": "Full Stack .NET Developer",
+  "tagline": "Building scalable enterprise applications with .NET and modern web technologies.",
+  "yearsExperience": 6,
+  "availability": "Available",
+  "summary": "Full Stack Software Engineer with 6 years of experience building enterprise-grade applications using .NET, RESTful APIs, GraphQL, and microservices. Skilled in SQL Server optimization, EF Core, and Dapper, with 3 years of experience in Angular and React.js for modern, responsive UI development. Experienced in authentication and authorization using JWT, Basic Authentication, and Azure AD, as well as scalable microservice architecture and secure FinTech solutions. Strong collaborator in Agile environments, leveraging Git workflows, TDD, UML, and CQRS.",
+  "location": "Chennai",
+  "email": "imdhanifa@outlook.com",
+  "phone": "+91 9003894244",
+  "github": "https://github.com/imdhanifa",
+  "linkedin": "https://www.linkedin.com/in/imdhanifa",
+  "website": "https://imdhanifa.info"
+}

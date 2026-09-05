@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Synergein Technology LLC",
+    "role": "Software Developer",
+    "startDate": "2025-10",
+    "endDate": "2026-09",
+    "location": "Chennai",
+    "description": "Developed the BOS TA HRMS platform using .NET, Web API, and microservices with Clean Architecture. Implemented RBAC, permission management, and secure API workflows. Optimized SQL Server stored procedures, functions, and TVPs. Built secure mobile check-in/check-out APIs with GPS, device, and request-signature validation.",
+    "technologies": [
+      "React.js",
+      ".NET 10",
+      "EF Core",
+      "Web API",
+      "Ocelot API Gateway",
+      "Redis",
+      "Microservices",
+      "Clean Architecture",
+      "Azure SQL",
+      "RBAC"
+    ]
+  },
+  {
+    "company": "Knila IT Solutions India Pvt Ltd",
+    "role": "Software Developer",
+    "startDate": "2022-12",
+    "endDate": "2025-09",
+    "location": "Coimbatore",
+    "description": "Built the Deluxe Payment Platform (FinTech) using secure .NET REST APIs and GraphQL APIs with JWT authentication. Architected microservices for scalability and reliability. Developed responsive Angular and React.js dashboards for transaction tracking. Optimized SQL queries and stored procedures, achieving a 30% performance improvement. Managed data access using Dapper and mentored junior developers.",
+    "technologies": [
+      ".NET 8",
+      "REST APIs",
+      "GraphQL",
+      "Microservices",
+      "Clean Architecture",
+      "Redis",
+      "RabbitMQ",
+      "MassTransit",
+      "Saga Pattern",
+      "JWT",
+      "Angular",
+      "React.js",
+      "Dapper",
+      "SQL Server"
+    ]
+  },
+  {
+    "company": "Tripwerkz India Pvt Ltd",
+    "role": "Software Developer",
+    "startDate": "2021-01",
+    "endDate": "2022-11",
+    "location": "Chennai",
+    "description": "Developed and deployed microservices-based applications for a global travel platform. Built REST APIs and React.js frontend modules for bookings, payments, and third-party integrations including TBO Holidays and Hotelbeds. Improved application performance and maintainability using EF Core and modular architecture. Collaborated cross-functionally within Agile teams.",
+    "technologies": [
+      "Microservices",
+      "REST APIs",
+      "Next.js",
+      "EF Core",
+      ".NET Core 3.1",
+      "MySQL"
+    ]
+  }
+]

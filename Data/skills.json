@@ -1,0 +1,158 @@
+{
+  "languages": [
+    "C#",
+    "TypeScript",
+    "JavaScript",
+    "SQL",
+    "HTML5",
+    "CSS3",
+    "SCSS"
+  ],
+
+  "frontend": [
+    "Angular",
+    "React.js",
+    "Next.js",
+    "RxJS",
+    "Redux",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Responsive UI/UX",
+    "UI Theming",
+    "Light/Dark/Multicolor Themes",
+    "Micro Frontends",
+    "Module Federation"
+  ],
+
+  "backend": [
+    ".NET",
+    "ASP.NET Core",
+    "RESTful APIs",
+    "GraphQL",
+    "gRPC",
+    "SignalR",
+    "Minimal APIs",
+    "Worker",
+    "Dependency Injection",
+    "Middleware",
+    "Background Services",
+    "Hosted Services",
+    "Kestrel",
+    "API Versioning"
+  ],
+
+  "packagesAndLibraries": [
+    "Dapper",
+    "ADO.NET",
+    "Entity Framework Core",
+    "MediatR",
+    "FluentValidation",
+    "AutoMapper",
+    "Mapster",
+    "Serilog",
+    "Polly",
+    "MassTransit",
+    "StackExchange.Redis",
+    "Refit",
+    "RabbitMQ",
+    "FluentAssertions",
+    "xUnit",
+    "Moq",
+    "NUnit"
+  ],
+
+  "databases": [
+    "SQL Server",
+    "MSSQL",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Vector Databases - Learning",
+    "Qdrant -Learning"
+  ],
+
+  "architecture": [
+    "Microservices",
+    "Monolithic Architecture",
+    "Modular Monolith",
+    "MVC",
+    "Layered Architecture",
+    "Clean Architecture",
+    "Vertical Slice Architecture",
+    "CQRS",
+    "Domain-Driven Design (DDD)",
+    "Event-Driven Architecture",
+    "Distributed Systems",
+    "Micro Frontends",
+    "Module Federation",
+    "SOLID Principles",
+    "Design Patterns",
+    "Repository Pattern",
+    "Unit of Work Pattern",
+    "Saga Pattern",
+    "Outbox Pattern",
+    "Strangler Fig Pattern"
+  ],
+
+  "security": [
+    "JWT",
+    "OAuth 2.0",
+    "OpenID Connect",
+    "ASP.NET Core Identity",
+    "Role-Based Access Control (RBAC)",
+    "Policy-Based Authorization",
+    "Claims-Based Authorization",
+    "Microsoft Entra ID",
+    "API Security",
+    "CORS",
+    "CSRF Protection",
+    "XSS Protection"
+  ],
+
+  "ai": [
+    "AI Integration",
+    "Generative AI",
+    "Model Context Protocol (MCP)"
+  ],
+
+  "devOps": [
+    "Azure DevOps",
+    "GitHub Actions",
+    "Git",
+    "GitHub",
+    "Bitbucket",
+    "TFS",
+    "CI/CD"
+  ],
+
+  "deploymentAndHosting": [
+    "Self-Hosting",
+    "Coolify",
+    "Docker",
+    "Docker Compose",
+    "IIS",
+    "Domain & DNS Configuration"
+  ],
+
+  "developmentTools": [
+    "Visual Studio",
+    "Visual Studio Code",
+    "SQL Server Management Studio (SSMS)",
+    "Postman",
+    "Swagger UI",
+    "Scalar",
+    "GraphiQL / Playground / Altair /Voyager",
+    "Docker Desktop",
+    "Jira",
+    "Confluence",
+    "NuGet",
+    "npm",
+    "Yarn",
+    "pnpm",
+    "Vite",
+    "Webpack",
+    "dotnet CLI"
+  ]
+
+}
