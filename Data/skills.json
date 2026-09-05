@@ -85,14 +85,7 @@
     "Event-Driven Architecture",
     "Distributed Systems",
     "Micro Frontends",
-    "Module Federation",
-    "SOLID Principles",
-    "Design Patterns",
-    "Repository Pattern",
-    "Unit of Work Pattern",
-    "Saga Pattern",
-    "Outbox Pattern",
-    "Strangler Fig Pattern"
+    "Module Federation"
   ],
 
   "security": [
