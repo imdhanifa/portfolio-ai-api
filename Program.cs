@@ -114,15 +114,15 @@ builder.Services.AddSingleton<ResumePdfService>();
 var app = builder.Build();
 
 // --- Pipeline ------------------------------------------------------------
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.MapOpenApi();
     // Interactive API docs at /scalar/v1, generated from the /openapi/v1.json AddOpenApi()
     // produces above. Dev-only - not exposed in Production.
     app.MapScalarApiReference();
-}
+//}
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseCors(FrontendCorsPolicy);
 app.UseRateLimiter();
 app.UseAuthorization();
