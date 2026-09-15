@@ -1,12 +1,11 @@
-using System.Threading.RateLimiting;
-using Microsoft.AspNetCore.RateLimiting;
-using QuestPDF.Infrastructure;
-using Scalar.AspNetCore;
 using Portfolio.Api;
 using Portfolio.Api.AI;
 using Portfolio.Api.MCP;
 using Portfolio.Api.MCP.Tools;
 using Portfolio.Api.Resume;
+using QuestPDF.Infrastructure;
+using Scalar.AspNetCore;
+using System.Threading.RateLimiting;
 
 // Community license: free for individuals, non-profits, open-source projects, and
 // organizations under $1M in annual gross revenue - covers this project. Required at

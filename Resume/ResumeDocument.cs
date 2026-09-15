@@ -71,7 +71,7 @@ public class ResumeDocument(ResumeData data) : IDocument
                 column.Item().Text(data.Profile.Title).FontSize(12).FontColor(Colors.Grey.Darken2);
             }
 
-            var contactParts = new[] { data.Profile.Location, data.Profile.Phone, data.Profile.Email, data.Profile.Website, data.Profile.Github, data.Profile.Linkedin }
+            var contactParts = new[] { data.Profile.Location, data.Profile.Phone, data.Profile.Email, data.Profile.Website, data.Profile.Github, /* data.Profile.Linkedin */ }
                 .Where(p => !string.IsNullOrWhiteSpace(p));
             var contactLine = string.Join("  |  ", contactParts);
 

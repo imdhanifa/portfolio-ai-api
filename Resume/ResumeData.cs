@@ -14,7 +14,7 @@ public class ProfileData
     public string? Phone { get; set; }
     public string? Github { get; set; }
     public string? Website { get; set; }
-    //public string? Linkedin { get; set; }
+    public string? Linkedin { get; set; }
 }
 
 public class ProjectData
