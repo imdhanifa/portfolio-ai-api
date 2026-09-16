@@ -5,23 +5,18 @@
     "startDate": "2025-10",
     "endDate": "2026-09",
     "location": "Chennai",
-    "description": "Developed and enhanced a SaaS-based Employee Management and Time & Attendance platform (BOS TA HRMS) using .NET 10, ASP.NET Core Web API, React.js, EF Core, and Microservices with Clean Architecture. Worked across key modules including Employee Management, Time Management, Organization Management, and Workflow Management, supporting employee lifecycle, attendance, time tracking, organizational structures, and configurable business workflows. Implemented RBAC, permission management, middleware, and secure API workflows for multi-tenant SaaS environments. Designed and optimized SQL Server stored procedures, functions, TVPs, and queries for enterprise workloads. Built secure mobile check-in/check-out APIs with GPS validation, device validation, application version checks, nonce validation, and request-signature verification. Integrated Redis for caching and Ocelot API Gateway for routing and service communication. Contributed to production support, debugging, performance optimization, and Agile development.",
+    "description": "Developed the BOS TA HRMS platform using .NET, Web API, and microservices with Clean Architecture. Implemented RBAC, permission management, and secure API workflows. Optimized SQL Server stored procedures, functions, and TVPs. Built secure mobile check-in/check-out APIs with GPS, device, and request-signature validation.",
     "technologies": [
-      "C#",
-      ".NET 10",
-      "ASP.NET Core",
-      "Web API",
       "React.js",
+      ".NET 10",
       "EF Core",
-      "SQL Server",
-      "Azure SQL",
-      "Microservices",
-      "Clean Architecture",
+      "Web API",
       "Ocelot API Gateway",
       "Redis",
-      "RBAC",
-      "JWT",
-      "REST APIs"
+      "Microservices",
+      "Clean Architecture",
+      "Azure SQL",
+      "RBAC"
     ]
   },
   {
@@ -30,29 +25,22 @@
     "startDate": "2022-12",
     "endDate": "2025-09",
     "location": "Coimbatore",
-    "description": "Developed enterprise-grade FinTech applications for a multi-channel payment platform supporting credit card, ACH, and digital wallet transactions. Built secure RESTful and GraphQL APIs using ASP.NET Core and implemented JWT authentication and role-based access control across payment portals and embedded forms. Designed and implemented webhook-based integrations for real-time payment, refund, and chargeback notifications, enabling automated downstream processing. Developed and optimized SQL Server stored procedures, views, and queries for high-volume transaction processing, achieving up to 30% performance improvement. Designed microservices using Clean Architecture with Redis, RabbitMQ, MassTransit, and the Saga Pattern to support scalable and reliable distributed transactions. Developed responsive Angular and React.js dashboards for transaction monitoring and management. Troubleshot and resolved production-level payment and API issues, improving system reliability and reducing mean time to resolution. Collaborated with cross-functional Agile/Scrum teams using Jira and Git/Bitbucket. Mentored junior developers and contributed to code reviews and technical improvements.",
+    "description": "Built the Deluxe Payment Platform (FinTech) using secure .NET REST APIs and GraphQL APIs with JWT authentication. Architected microservices for scalability and reliability. Developed responsive Angular and React.js dashboards for transaction tracking. Optimized SQL queries and stored procedures, achieving a 30% performance improvement. Managed data access using Dapper and mentored junior developers.",
     "technologies": [
-      "C#",
       ".NET 8",
-      "ASP.NET Core",
       "REST APIs",
       "GraphQL",
       "Microservices",
       "Clean Architecture",
-      "SQL Server",
-      "Dapper",
-      "EF Core",
       "Redis",
       "RabbitMQ",
       "MassTransit",
       "Saga Pattern",
       "JWT",
-      "RBAC",
       "Angular",
       "React.js",
-      "Jira",
-      "Git",
-      "Bitbucket"
+      "Dapper",
+      "SQL Server"
     ]
   },
   {
@@ -61,19 +49,14 @@
     "startDate": "2021-01",
     "endDate": "2022-11",
     "location": "Chennai",
-    "description": "Developed and deployed microservices-based applications for a global travel platform using .NET Core, RESTful APIs, EF Core, and MySQL. Built React.js and Next.js frontend modules for hotel bookings, payments, search, and third-party travel integrations. Integrated external travel APIs including TBO Holidays and Hotelbeds to support hotel availability, booking, and related transaction workflows. Designed modular application components to improve maintainability, scalability, and development efficiency. Optimized database queries and API workflows to improve application performance. Collaborated with frontend, backend, QA, and business teams in an Agile environment to deliver features and resolve production issues.",
+    "description": "Developed and deployed microservices-based applications for a global travel platform. Built REST APIs and React.js frontend modules for bookings, payments, and third-party integrations including TBO Holidays and Hotelbeds. Improved application performance and maintainability using EF Core and modular architecture. Collaborated cross-functionally within Agile teams.",
     "technologies": [
-      "C#",
-      ".NET Core 3.1",
-      "REST APIs",
       "Microservices",
-      "EF Core",
-      "React.js",
+      "REST APIs",
       "Next.js",
-      "MySQL",
-      "Web API",
-      "Third-Party API Integration",
-      "Agile"
+      "EF Core",
+      ".NET Core 3.1",
+      "MySQL"
     ]
   }
 ]
